@@ -1,0 +1,205 @@
+{
+    "register": {
+        "register_button": "Register"
+    },
+    "login": {
+        "login_button": "Login",
+        "signin": "Sign In",
+        "description": "Sign Into Your Account",
+        "question": "Don't have an account?",
+        "signup": "Sign Up"
+    },
+    "signup": {
+        "signup": "Sign Up",
+        "description": "Create Your Account",
+        "contents": "This site uses Gravatar so if you want a profile image, use a Gravatar email",
+        "accept": "I accept the terms of use of system",
+        "accept_description": "You must agree with the terms of use",
+        "register_button": "Register",
+        "already_account": "Already have an account?",
+        "signin": "Sign In"
+    },
+    "menu": {
+        "home": "Home",
+        "how": "How it works",
+        "solution": "Solution",
+        "benefits": "Benefits",
+        "values": "Values",
+        "doubts": "Doubts",
+        "what": "What can I register?",
+        "priority": "Priority Test",
+        "legal": "Legal Validity",
+        "contact": "Contact"
+    },
+    "authora": {
+        "title": "In Authora you can register all types of digital files",
+        "description": "Some examples than you can register",
+        "content_title": "Advertixing Expression",
+        "content_description": "Protect captions, ads, phrases, words, originals, word, combinations, drawings and engravings",
+        "button": "Discover All The Possibilities You Can Protect!"
+    },
+    "authora_digital": {
+        "content_title": "SAFETY",
+        "content_description": "Authora is in the cloud and meets all security criteria"
+    },
+    "create_proof": {
+        "title": "See how easy it is to create your Proof of Priority",
+        "first": "Register at Authora Digital and access through the login menu.",
+        "second": "When accessing the platform, click on the 'Register' menu",
+        "third": "Enter the data of the registration holder, registration type, title and description.",
+        "fourth": "Select the digital file for the platform to generate the hash.",
+        "fifth": "Then click on register and wait for confirmation on the Blockchain and issuance of the Certificate of Priority."
+    },
+    "why_register": {
+        "title": "Why register with Authora Digital",
+        "content_first": "The record of proof of prior art in Blockchain technology is gaining more and more notoriety in the legal field, both for its ease, transparency and security, as well as for its wide acceptance in more than 179 countries!",
+        "content_second": "Authora has arrived to facilitate the process of creating Proofs of Priority, with the issuance of a certificate for each transaction, which contains the most relevant data from the record, such as the timestamp stamp, name of the person in charge and the hash of the document, in addition to the QR Code for direct validation on the network.",
+        "content_third": "Watch the video and learn about all the registration possibilities through Authora Digital."
+    },
+    "common_question": {
+        "title": "Common Question",
+        "first_question": "What is Blockchain?",
+        "first_content": "Blockchain é uma tecnologia de base de dados distribuída e descentralizada, onde as informações são replicadas nos milhares de nós da rede e não podem ser alteradas. Nesta tecnologia, a integridade se dá usando uma técnica de encadeamento de bloco de dados, ligando o bloco anterior ao próximo bloco, e usando uma assinatura hash do bloco anterior como um dado do próximo bloco.",
+        "second_question": "What is 'hash'?",
+        "second_content": "Hash is the result of a cryptographic function, a mathematical algorithm that maps a file generating a “signature” that identifies this file. Any change to the file implies changing its hash. This is a one-way function, that is, a function for which you cannot invert or reverse the calculation.",
+        "third_question": "What can be registered in Authora Digital?",
+        "third_content": "Technically and operationally, any file that contains information that in the future you may have to prove was yours, that you created it. In short, that you may have to prove the precedence of what is reported in the file. The range of applications since registration is very wide, but here are some of them: In the area of ​​patents . Often, for reasons of cost, we register only the main patent, but several elements should also be registered and we do not do so because of a very high cost. With the registration of these parts in blockchain you will be able to prove the precedence of an invention, of a patentable structure. Security in creating systems . You will be able to register the source code and the interfaces of your systems or part of them, being able to later prove your authorship. In the area of ​​fashion and jewelry . The creation of the specific prints and cuts of the collections, as well as the jewelry design, can be registered in order to prove the precedence of the creation. Books and eBooks can also be registered, and we don't have to wait to finish them before registering. We can make partial records of versions. Speeches, theses, dissertations, to be able to easily prove plagiarism. Advertising expressions . The INPI no longer allows the registration of advertising expressions, in this way, proof of prior art can be guaranteed from a blockchain record. Music and lyrics . How often do we see cases of accusations of plagiarism. Ensure your proof of precedence with blockchain registration. Photos and illustrations . There is no shortage of cases of misuse of images belonging to third parties. Architecture projects. That project you spent months working on, how do you prove it's yours if someone takes it and applies it to other projects without your approval? Minutes and recordings of meetings. That meeting that you want to register for corporate or legal reasons, you can guarantee the integrity by registering on blockchain. Finally, all types of documents that need to guarantee proof of the original or its precedence. To learn more, visit the link: https: //www.authoradigital.com.br/central-autoral/",
+        "fourth_question": "What is the legal certainly of this registration?",
+        "fourth_content": "Currently, more than 179 countries in the world accept this registration as proof of anteriority.",
+        "fifth_question": "How are registrations billed?",
+        "fifth_content_one": "The charge is made by credit. Each credit is equivalent to a record and as we have values ​​per usage range, the values ​​can be found in the system itself. Credits are purchased by credit card within the system itself.",
+        "fifth_content_two": "For regular LDSOFT customers we have a differentiated table with discounts, which can also be consulted by the system. For these customers, our billing is monthly and not by credit card."
+    },
+    "footer": {
+        "contact_us": {
+            "title": "CONTACT US",
+            "content": "6595 Rosewell Road Ste GPMG 13625 Atlanta"
+        },
+        "information": {
+            "title": "INFORMATION",
+            "solutions": "solutions",
+            "how": "How it works",
+            "benefits": "Benefits",
+            "values": "Values",
+            "doubts": "Doubts",
+            "contact": "Contact us"
+        },
+        "my_account": {
+            "title": "MY ACCOUNT",
+            "shopping_cart": "Shopping Cart"
+        },
+        "let_us": {
+            "title": "LET US HELP YOU",
+            "wishlist": "Wishlist"
+        }
+    },
+    "sidebar": {
+        "general": "GENERAL",
+        "dashboard": "Dashboard",
+        "posts": "Posts",
+        "projects": "Projects",
+        "buy_credits": "Buy Credits",
+        "management": "MANAGEMENT",
+        "user": "User",
+        "my_profile": "My Profile",
+        "profiles": "Profiles",
+        "admin_panel": "ADMIN PANEL",
+        "blockchain_hash": "Blockchain Hash",
+        "creditcard_packages": "Credit Card & Packages"
+    },
+    "dashboard": {
+        "welcome": "Welcome to dashboard!",
+        "welcome_content": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything",
+        "welcome_button": "Go Now",
+        "number": "Number of records per month",
+        "total": "Total holders x active holders",
+        "most": "Most registered types",
+        "owners": "Owners who register the most"
+    },
+    "projects": {
+        "table_name": "Records",
+        "title": "Title",
+        "description": "Description",
+        "holder": "Holder",
+        "type": "Type",
+        "button": "Register"
+    },
+    "register_projects": {
+        "table_name": "Register Projects",
+        "holder": "Holder",
+        "type": "Type",
+        "title": "Title",
+        "description": "Description",
+        "button": "Register"
+    },
+    "register_holder": {
+        "title": "Register Holder",
+        "to_save": "To Save",
+        "cancel": "Cancel"
+    },
+    "register_type": {
+        "title": "Register Type",
+        "types": "Types",
+        "save": "Save",
+        "cancel": "Cancel"
+    },
+    "my_profile": {
+        "title": "My Profile",
+        "welcome": "Welcome",
+        "welcome_content": "You have not yet setup a profile, please add some info",
+        "button": "Create Profile"
+    },
+    "profiles": {
+        "title": "Users",
+        "browse": "Browse and connect with Users",
+        "no_found": "No profiles founds..."
+    },
+    "create_profile": {
+        "title": "Edit Your Profile",
+        "title_content": "Add some changes to your profile",
+        "add_social": "Add Social Network Links",
+        "optional": "Optional",
+        "submit": "Submit",
+        "go_back": "Go Back"
+    },
+    "generate_hash": {
+        "title": "Generate Hash",
+        "hash": "Hash (SHA256)"
+    },
+    "email_setup": {
+        "title": "Email Setup",
+        "email_start": "E-mail introductin (email start)",
+        "end_email": "E-mail introduction (end of email)",
+        "to_save": "To Save"
+    },
+    "contact_us": {
+        "title": "Contact us",
+        "question": "Who would you like to talk to?",
+        "write_question": "Write your question:",
+        "submit": "Submit"
+    },
+    "credits": {
+        "name": "credits",
+        "title": "credit statement",
+        "type": "type",
+        "package": "Package",
+        "coupon": "coupon",
+        "value": "Value",
+        "total": "Total",
+        "available": "Available",
+        "expired_credit": "Expired Credit",
+        "validity": "Validity",
+        "no_items": "No Items to show..."
+    },
+    "account_info": {
+        "home": "Home",
+        "registration_types": "Registration Types",
+        "profile": "Profile",
+        "holders": "Holders",
+        "generate_hash": "Generate Hash",
+        "email_setup": "Email Setup",
+        "help": "Help",
+        "contact_us": "Contract Us",
+        "logout": "Logout"
+    }
+}

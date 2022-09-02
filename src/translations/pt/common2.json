@@ -1,0 +1,205 @@
+{
+    "register": {
+        "register_button": "Registro"
+    },
+    "login": {
+        "login_button": "Acceso",
+        "signin": "Registrarse",
+        "description": "Iniciar sesión en su cuenta",
+        "question": "¿No tienes una cuenta?",
+        "signup": "Inscribirse"
+    },
+    "signup": {
+        "signup": "Inscribirse",
+        "description": "Crea tu cuenta",
+        "contents": "Este sitio usa Gravatar, por lo que si desea una imagen de perfil, use un correo electrónico de Gravatar",
+        "accept": "Acepto las condiciones de uso del sistema",
+        "accept_description": "Debes estar de acuerdo con los términos de uso",
+        "register_button": "Registro",
+        "already_account": "¿Ya tienes una cuenta?",
+        "signin": "Registrarse"
+    },
+    "menu": {
+        "home": "Hogar",
+        "how": "Cómo funciona",
+        "solution": "Solución",
+        "benefits": "Beneficios",
+        "values": "Valores",
+        "doubts": "Dudas",
+        "what": "¿Qué puedo registrar?",
+        "priority": "Prueba de prioridad",
+        "legal": "Validez Jurídica",
+        "contact": "Contacto"
+    },
+    "authora": {
+        "title": "En Authora puedes registrar todo tipo de archivos digitales",
+        "description": "Algunos ejemplos de lo que puedes registrar",
+        "content_title": "Expresión Publicitaria",
+        "content_description": "Proteja leyendas, anuncios, frases, palabras, originales, palabra, combinaciones, dibujos y grabados",
+        "button": "¡Descubre todas las posibilidades que puedes proteger!"
+    },
+    "authora_digital": {
+        "content_title": "LA SEGURIDAD",
+        "content_description": "Authora está en la nube y cumple con todos los criterios de seguridad"
+    },
+    "create_proof": {
+        "title": "Vea lo fácil que es crear su Prueba de Prioridad",
+        "first": "Regístrese en Authora Digital y acceda a través del menú de inicio de sesión.",
+        "second": "Al acceder a la plataforma, haga clic en el menú 'Registrarse'",
+        "third": "Ingrese los datos del titular del registro, tipo de registro, título y descripción.",
+        "fourth": "Seleccione el archivo digital para que la plataforma genere el hash.",
+        "fifth": "Luego haga clic en registrarse y espere la confirmación en Blockchain y la emisión del Certificado de Prioridad."
+    },
+    "why_register": {
+        "title": "Por qué registrarse en Authora Digital",
+        "content_first": "El registro de prueba del estado de la técnica en tecnología Blockchain está ganando cada vez más notoriedad en el ámbito legal, tanto por su facilidad, transparencia y seguridad, como por su amplia aceptación en más de 179 países!",
+        "content_second": "Ha llegado Authora para facilitar el proceso de creación de Pruebas de Prioridad, con la emisión de un certificado por cada transacción, que contiene los datos más relevantes del registro, como el sello de tiempo, nombre del responsable y el hash del documento, además del Código QR para validación directa en la red.",
+        "content_third": "Mira el video y conoce todas las posibilidades de registro a través de Authora Digital."
+    },
+    "common_question": {
+        "title": "Pregunta común",
+        "first_question": "¿Qué es la cadena de bloques?",
+        "first_content": "Blockchain es una tecnología de base de datos distribuidos y descentralizada, así como la información se replicará en miles de nós da rede y no podrá ser alterada. Nesta tecnologia, una estructurae se dá usando uma técnica de encadeamento de bloco de dados, ligando o bloco anterior ao next bloco, y usando uma assinatura hash do bloco anterior como um dado do next bloco.",
+        "second_question": "¿Qué es 'hachís'?",
+        "second_content": "Hash es el resultado de una función criptográfica, un algoritmo matemático que mapea un archivo generando una “firma” que identifica este archivo. Cualquier cambio en el archivo implica cambiar su hash. Esta es una función unidireccional, es decir, una función para la cual no puede invertir o revertir el cálculo.",
+        "third_question": "¿Qué se puede registrar en Authora Digital?",
+        "third_content": "Técnica y operativamente, cualquier archivo que contenga información que en el futuro deba demostrar que fue suya, que usted la creó. En definitiva, que pueda tener que acreditar la precedencia de lo informado en el expediente. El abanico de aplicaciones desde el registro es muy amplio, pero aquí tienes algunas de ellas: En el área de patentes. A menudo, por razones de costo, registramos solo la patente principal, pero también se deben registrar varios elementos y no lo hacemos debido a un costo muy alto. Con el registro de estas partes en blockchain podrás probar la precedencia de una invención, de una estructura patentable. Seguridad en la creación de sistemas. Podrás registrar el código fuente y las interfaces de tus sistemas o parte de ellos, pudiendo acreditar posteriormente tu autoría. En el área de moda y joyería. La creación de los estampados y cortes específicos de las colecciones, así como el diseño de joyas, pueden registrarse para probar la precedencia de la creación. También se pueden registrar libros y eBooks, y no tenemos que esperar a terminarlos para registrarnos. Podemos hacer registros parciales de versiones. Discursos, tesis, disertaciones, para poder probar fácilmente el plagio. Expresiones publicitarias. El INPI ya no permite el registro de expresiones publicitarias, de esta forma se puede garantizar la prueba del estado de la técnica a partir de un registro blockchain. Música y letras . Con qué frecuencia vemos casos de acusaciones de plagio. Asegure su prueba de precedencia con el registro de blockchain. Fotos e ilustraciones. No faltan los casos de uso indebido de imágenes pertenecientes a terceros. Proyectos de arquitectura. Ese proyecto en el que llevas meses trabajando, ¿cómo demuestras que es tuyo si alguien lo toma y lo aplica a otros proyectos sin tu aprobación? Actas y grabaciones de reuniones. Esa reunión que desea registrar por razones corporativas o legales, puede garantizar la integridad registrándose en blockchain. Por último, todo tipo de documentos que necesiten garantizar la prueba del original o su precedencia. Para saber más, visite el enlace: https: //www.authoradigital.com.br/central-autoral/",
+        "fourth_question": "¿Cuál es la certeza jurídica de este registro?",
+        "fourth_content": "Actualmente, más de 179 países en el mundo aceptan este registro como prueba de anterioridad.",
+        "fifth_question": "¿Cómo se facturan las inscripciones?",
+        "fifth_content_one": "El cargo se hace a crédito. Cada crédito equivale a un registro y como tenemos valores por rango de uso, los valores se pueden encontrar en el propio sistema. Los créditos se compran con tarjeta de crédito dentro del propio sistema.",
+        "fifth_content_two": "Para clientes habituales de LDSOFT disponemos de una tabla diferenciada con descuentos, que también puede ser consultada por el sistema. Para estos clientes, nuestra facturación es mensual y no con tarjeta de crédito."
+    },
+    "footer": {
+        "contact_us": {
+            "title": "CONTÁCTENOS",
+            "content": "6595 Roswell Rd Suite GPMG 13625 Atlanta"
+        },
+        "information": {
+            "title": "INFORMACIÓN",
+            "solutions": "soluciones",
+            "how": "Cómo funciona",
+            "benefits": "Beneficios",
+            "values": "Valores",
+            "doubts": "Dudas",
+            "contact": "Contacta con nosotras"
+        },
+        "my_account": {
+            "title": "MI CUENTA",
+            "shopping_cart": "Carrito de compras"
+        },
+        "let_us": {
+            "title": "DEJANOS AYUDARTE",
+            "wishlist": "Lista de deseos"
+        }
+    },
+    "sidebar": {
+        "general": "GENERAL",
+        "dashboard": "Tablero",
+        "posts": "Publicaciones",
+        "projects": "Proyectos",
+        "buy_credits": "Compra creditos",
+        "management": "ADMINISTRACIÓN",
+        "user": "Usuaria",
+        "my_profile": "Mi perfil",
+        "profiles": "Perfiles",
+        "admin_panel": "PANEL DE ADMINISTRADOR",
+        "blockchain_hash": "Hachís de cadena de bloques",
+        "creditcard_packages": "Tarjeta de crédito y paquetes"
+    },
+    "dashboard": {
+        "welcome": "¡Bienvenido al tablero!",
+        "welcome_content": "Si va a utilizar un pasaje de Lorem Ipsum, debe asegurarse de que no haya nada",
+        "welcome_button": "Ve ahora",
+        "number": "Número de registros por mes",
+        "total": "Total titulares x titulares activos",
+        "most": "Tipos más registrados",
+        "owners": "Propietarias que se registran más"
+    },
+    "projects": {
+        "table_name": "Registros",
+        "title": "Título",
+        "description": "Descripción",
+        "holder": "Poseedora",
+        "type": "Escribe",
+        "button": "Registro"
+    },
+    "register_projects": {
+        "table_name": "Registrar Proyectos",
+        "holder": "Poseedora",
+        "type": "Escribe",
+        "title": "Título",
+        "description": "Descripción",
+        "button": "Registro"
+    },
+    "register_holder": {
+        "title": "Titular del registro",
+        "to_save": "Ahorrar",
+        "cancel": "Cancelar"
+    },
+    "register_type": {
+        "title": "Tipo de registro",
+        "types": "Tipos",
+        "save": "Ahorrar",
+        "cancel": "Cancelar"
+    },
+    "my_profile": {
+        "title": "Mi perfil",
+        "welcome": "Bienvenidas",
+        "welcome_content": "Aún no ha configurado un perfil, agregue información",
+        "button": "Crear perfil"
+    },
+    "profiles": {
+        "title": "Usuarias",
+        "browse": "Navegar y conectarse con las usuarias",
+        "no_found": "No se encontraron perfiles..."
+    },
+    "create_profile": {
+        "title": "Edite su perfil",
+        "title_content": "Agrega algunos cambios a tu perfil",
+        "add_social": "Agregar enlaces de redes sociales",
+        "optional": "Opcional",
+        "submit": "Enviar",
+        "go_back": "Regresa"
+    },
+    "generate_hash": {
+        "title": "generar hash",
+        "hash": "Hachís (SHA256)"
+    },
+    "email_setup": {
+        "title": "Configuración de correo electrónico",
+        "email_start": "Correo electrónico de introducción (email de inicio)",
+        "end_email": "Introducción por correo electrónico (fin del correo electrónico)",
+        "to_save": "Ahorrar"
+    },
+    "contact_us": {
+        "title": "Contacta con nosotras",
+        "question": "¿Con quién te gustaría hablar?",
+        "write_question": "Escribe tu pregunta:",
+        "submit": "Enviar"
+    },
+    "credits": {
+        "name": "creditos",
+        "title": "estado de cuenta",
+        "type": "escribe",
+        "package": "Paquete",
+        "coupon": "cupón",
+        "value": "Valor",
+        "total": "Total",
+        "available": "Disponible",
+        "expired_credit": "Crédito vencido",
+        "validity": "Validez",
+        "no_items": "No hay artículos para mostrar..."
+    },
+    "account_info": {
+        "home": "Hogar",
+        "registration_types": "Tipos de registro",
+        "profile": "Perfil",
+        "holders": "Titulares",
+        "generate_hash": "generar hash",
+        "email_setup": "Configuración de correo electrónico",
+        "help": "Ayuda",
+        "contact_us": "Contratarnos",
+        "logout": "Cerrar sesión"
+    }
+}
